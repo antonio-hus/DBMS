@@ -1,0 +1,17 @@
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\bin\Debug\net8.0-windows\DBMS.exe
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\bin\Debug\net8.0-windows\DBMS.deps.json
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\bin\Debug\net8.0-windows\DBMS.runtimeconfig.json
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\bin\Debug\net8.0-windows\DBMS.dll
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\bin\Debug\net8.0-windows\DBMS.pdb
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.Form1.resources
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.sourcelink.json
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.dll
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\refint\DBMS.dll
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.pdb
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\DBMS.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documents\GitHub\DataBase-Management-Systems\DBMS\obj\Debug\net8.0-windows\ref\DBMS.dll
